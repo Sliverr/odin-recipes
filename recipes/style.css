@@ -1,6 +1,7 @@
 h1{
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 h2{
@@ -11,11 +12,39 @@ h3{
     color:sienna;
 }
 
+.image-wrapper{
+
+    text-align:center;
+    margin-bottom: 10px;
+}
+
 .home-button{
-    font-weight: bolder;
-    font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: tan;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    border: 5px rgb(184, 97, 97);
+    margin: 10px;
+    color: rgb(230, 132, 52);
 
 }
 
+.card{
+    background-color: lavender;
+    padding: 5px;
+
+}
+.content{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+    padding: 5px;
+    border: 5px rgb(184, 97, 97);
+    margin: 10px;
+    color: rgb(230, 132, 52);
+
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
